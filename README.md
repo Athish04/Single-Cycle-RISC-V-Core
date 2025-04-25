@@ -1,3 +1,3 @@
-#Single-Cycle-RISC-V-Core
+# Single-Cycle-RISC-V-Core
 
 
